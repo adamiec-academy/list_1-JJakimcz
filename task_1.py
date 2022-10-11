@@ -3,6 +3,8 @@ def linia_gd(n):
         print(" ", end = '')
     for _ in range(n):
         print("*", end = '')
+    for _ in range(n):
+        print(" ", end = '')
     print()
     
 def linia_sr(n):
