@@ -27,5 +27,5 @@ def chess_board(n,k):
         if i==n+1:
             break
         else:
-            l1(n,k)
             l2(n,k)
+            l1(n,k)
