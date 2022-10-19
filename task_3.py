@@ -1,4 +1,3 @@
-n = int(input("podaj n: "))
 def envelope(n):
     z=0
     a=0
@@ -16,5 +15,3 @@ def envelope(n):
         print("*" + a * " " + "*" + b * " " + "*" + a * " " + "*")   
  
     print((2*n+1)*"*", end = '')
-
-envelope(n)
