@@ -1,3 +1,4 @@
+n=0
 def snowball(n,k):
 
     r=n/2
